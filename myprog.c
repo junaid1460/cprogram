@@ -2,6 +2,7 @@
 
 int main() {
   printf("Hello");
-  hello
+  //hello
+  // Edited 
   return 0;
 }
