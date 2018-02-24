@@ -2,6 +2,7 @@
 
 int main() {
   printf("Hello");
-  hello
+  //hello from the other side
+  printf("Skynet");
   return 0;
 }
