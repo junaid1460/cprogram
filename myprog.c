@@ -1,7 +1,9 @@
+// Declaration Of Header Files 
 #include<stdio.h>
 
-int main() {
-  printf("Hello");
-  // print "hello" 
-  return 0;
+// Here Programme Starts
+int main() 
+{
+  printf("Hello"); // print "hello" 
+  return 0;  // Programme is not returning anything so 0
 }
